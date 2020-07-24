@@ -80,7 +80,7 @@ There is also a shortcut to reload app:
 2. Set and get data form AsyncStorage
 3. Load full list of pokemons from API to asyncStore
 4. Create hook for asyncStorage operations
-5. Use this hook ^^
+5. Use this hook
 6. Add FlatList header
 7. Add input to header and set it's placeholder to 'search'
 8. Add filtering pokemons function
