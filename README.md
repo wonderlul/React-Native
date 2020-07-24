@@ -3,7 +3,6 @@
 ### Setup and warm-up for coding in React Native
 
 - create a new application: `PokeDex`
-- create new GitHub repository `PokeDex-RNPB`
 - add git repository to application
 
 #### run project
